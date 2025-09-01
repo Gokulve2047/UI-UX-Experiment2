@@ -1,6 +1,4 @@
 # UI-UX-Experiment2
-NAME: GOKUL V E
-REG NO: 212224220029
 ## Aim:
 “To design user-friendly mobile and web layouts using Gestalt principles, UI/UX patterns, usability guidelines, and branding through a logo.”
 ## Algorithm:
